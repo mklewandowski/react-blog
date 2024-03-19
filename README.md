@@ -15,7 +15,7 @@ A React web application that allows the user to view, add, and delete blog entri
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It is based on the [Net Ninja React tutorial located here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d).
+It is based on the [Net Ninja React tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d).
 
 ### Available Scripts
 
