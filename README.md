@@ -1,5 +1,5 @@
 # React Blog
-A React web application that allows the user to view, add, and delete blog entries.
+A web application built using React and JavaScript that allows the user to view, add, and delete blog entries.
 
 ## Run Locally
 - clone GitHub repo
