@@ -9,7 +9,7 @@ A web application built using React and JavaScript that allows the user to view,
 
 ### Libraries
 - `json-server` is used to create API endpoints where we can read, create, and delete blogs.
-- `react-router-dom` is used to handle routes
+- `react-router-dom` is used to handle routes.
 
 ## Creation
 
